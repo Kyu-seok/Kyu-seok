@@ -1,4 +1,5 @@
-### Hi there 👋
+### It's your favourite boy Q! 👋
+### a Coffee enthusiast ☕️
 
 <!--
 **yeumkyuseok/yeumkyuseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
