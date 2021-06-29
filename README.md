@@ -1,4 +1,4 @@
-### It's your favourite boy Q! 👋
+### It's your favourite boy Q 👋
 ### a Coffee enthusiast ☕️
 
 <!--
