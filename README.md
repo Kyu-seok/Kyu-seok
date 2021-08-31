@@ -2,7 +2,7 @@
 ### I'm a Coffee enthusiast ☕️
 - 🔭 I’m currently working on Android developement 
 - 🌱 I’m currently learning Spring, Hibernate and Gradle
-- 👯 I’m looking to collaborate on any projects which I find interesting
+- ⚛ I’m looking to collaborate on any projects which I find interesting
 - 🤝 I’m looking for help with planting trees
 - 💬 Ask me about anything tech
 - 📫 How to reach me: yeumkyuseok@gmail.com
