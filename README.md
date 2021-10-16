@@ -1,7 +1,7 @@
 ### This is your favourite boy Q 👋
 ### I'm a Coffee enthusiast ☕️
-My blog : yeumkyuseok.com
-- 🔭 I’m currently working on Android developement 
+####[💻Visit my skill blog💻](https://yeumkyuseok.com/)
+- 🔭 I’m currently into Nike shoes
 - 🌱 I’m currently learning Spring, Hibernate and Gradle
 - ⚛ I’m looking to collaborate on any projects which I find interesting
 - 🤝 I’m looking for help with planting trees
