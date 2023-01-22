@@ -26,7 +26,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" alt="spring-boot" width="40" height="40"/> </a>
 <a href="https://spring.io/guides/gs/accessing-data-jpa/" target="_blank" rel="noreferrer"> <img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" alt="spring-data" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" alt="mockito" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
