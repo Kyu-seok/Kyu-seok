@@ -4,9 +4,11 @@ Backend developer who believes every slow system is telling you something — yo
 
 ## How I Build
 
-A queue doesn't just move messages — it buys you time when traffic spikes.
-A cache doesn't just speed things up — it protects the database from questions it already answered.
-An index doesn't just make queries faster — it changes which questions are cheap to ask.
+A **queue** doesn't just move messages — it buys you time when traffic spikes.
+
+A **cache** doesn't just speed things up — it protects the database from questions it already answered.
+
+An **index** doesn't just make queries faster — it changes which questions are cheap to ask.
 
 I design systems by understanding what each component is really doing for you — then putting the right ones in the right places.
 
