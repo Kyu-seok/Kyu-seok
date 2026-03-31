@@ -1,16 +1,16 @@
 # Hi, I'm Kyu-seok 👋
 
-Backend developer focused on performance optimization and data-flow driven system design.
+Backend developer who believes every slow system is telling you something — you just have to know where to listen.
 
-I believe in analyzing trade-offs carefully — balancing scalability, consistency, and operational cost to find the right solution, not just the fastest one. I approach problems by understanding the system as a whole, not just the code in front of me.
+## How I Build
 
-## Philosophy
+A queue doesn't just move messages — it buys you time when traffic spikes.
+A cache doesn't just speed things up — it protects the database from questions it already answered.
+An index doesn't just make queries faster — it changes which questions are cheap to ask.
 
-- Identify bottlenecks through logs and metrics, not guesswork
-- Favor structural improvements over quick patches
-- Every design decision is a trade-off — make it deliberately
+I design systems by understanding what each component is really doing for you — then putting the right ones in the right places.
 
-## Tech Stack
+## What I Work With
 
 **Backend** — Java, Spring Boot
 
