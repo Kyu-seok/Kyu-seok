@@ -16,8 +16,6 @@ Backend engineer in Seoul. Java and Spring by trade, but what I actually care ab
 - System design: scaling reads and writes, contention, long-running work, Kafka, Redis
 - AI and agentic workflows
 
-The CodeBite README walks through the async grading pipeline and how submit latency went from 30 seconds to under 2.
-
 ## How I work
 
 - Vim, everywhere I can get it. VimText exists because browsers would not let me.
