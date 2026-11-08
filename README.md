@@ -1,6 +1,6 @@
 # Kyu-seok Yeum (염규석)
 
-Backend engineer in Seoul. Java and Spring by trade, but what I actually care about is how systems behave under load: handling concurrent requests, managing workloads with queues, optimizing with caching, and scaling as traffic grows. I build tools for my own deliberate practice and run them in production.
+Software engineer in Seoul. Java and Spring by trade, but what I actually care about is how systems behave under load: handling concurrent requests, managing workloads with queues, optimizing with caching, and scaling as traffic grows. I build tools for my own deliberate practice and run them in production.
 
 ## Projects
 
