@@ -1,38 +1,29 @@
-# Hi, I'm Kyu-seok 👋
+# Kyu-seok Yeum (염규석)
 
-Backend developer who believes every slow system is telling you something — you just have to know where to listen.
+Backend engineer in Seoul. Java and Spring by trade, but what I actually care about is how systems behave under load: handling concurrent requests, managing workloads with queues, optimizing with caching, and scaling as traffic grows. I build tools for my own deliberate practice and run them in production.
 
-## How I Build
+## Projects
 
-A **queue** doesn't just move messages — it buys you time when traffic spikes.
+- [**CodeBite**](https://github.com/Kyu-seok/CodeBite): Algorithm practice platform for Korean developers with spaced repetition built in. Spring Boot, Kafka, Judge0, PostgreSQL, Redis. Live at [code-bite.com](https://code-bite.com), running on a mini PC in my apartment.
+- [**kyu-rious**](https://github.com/Kyu-seok/kyu-rious): My public second brain. Every topic I study becomes lessons with quizzes and spaced review, published as a static site.
+- [**VimText**](https://github.com/Kyu-seok/VimText): Chrome extension that gives any text field on the web real Vim modal editing, reusing CodeMirror's Vim engine.
 
-A **cache** doesn't just speed things up — it protects the database from questions it already answered.
+## Interests
 
-An **index** doesn't just make queries faster — it changes which questions are cheap to ask.
+- Data structures and algorithms
+- CS fundamentals: databases, networking, operating systems
+- Concurrency and parallel programming
+- System design: scaling reads and writes, contention, long-running work, Kafka, Redis
+- AI and agentic workflows
 
-I design systems by understanding what each component is really doing for you — then putting the right ones in the right places.
+The CodeBite README walks through the async grading pipeline and how submit latency went from 30 seconds to under 2.
 
-## What I Work With
+## How I work
 
-**Backend** — Java, Spring Boot
+- Vim, everywhere I can get it. VimText exists because browsers would not let me.
+- Kinesis Advantage 360 with my own ZMK layout.
+- Claude Code daily, with my own skills for studying and shipping.
 
-**Infrastructure** — Docker, Nginx, Apache Kafka, Redis
+## Contact
 
-**Databases** — PostgreSQL, MySQL
-
-**Monitoring** — Prometheus, Grafana, Loki
-
-**CI/CD** — GitHub Actions
-
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-yeumkyuseok@gmail.com-blue?style=flat&logo=gmail)](mailto:yeumkyuseok@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kyu--seok-181717?style=flat&logo=github)](https://github.com/Kyu-seok)
-[![CodeBite](https://img.shields.io/badge/CodeBite-code--bite.com-green?style=flat)](https://code-bite.com)
-
----
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kyu-seok&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyu-seok&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-</p>
+yeumkyuseok@gmail.com · [kyu-seok.github.io](https://kyu-seok.github.io)
